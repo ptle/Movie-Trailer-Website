@@ -33,5 +33,4 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Implements The Open Movie Database API call. Some limitations are that if movies are incorrectly
 spelled then the data will not properly populate. Also right now this implementation only uses
 six of my favorite movies. If you want to change the data you must change the favorite_movie_names
-and trailers lists accordingly. **Make sure these lists are always the same size or errors will
-occur!**
+and trailers lists accordingly. **MAKE SURE THESE LISTS ARE THE SAME SIZE OR ERRORS WILL OCCUR**
