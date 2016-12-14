@@ -18,14 +18,14 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of functionality:
 
-<img src='http://i.imgur.com/9YLwsQC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/3lI8pxD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## How to run
 1. Make sure Python is downloaded. If not downloaded, go to https://www.python.org/downloads/ to download
 2. Download entertainment_center.py, fresh_tomatoes.py, and media.py
-3. Make sure all files are in same folder location **Note: WIll NOT WORK IF NOT IN SAME FOLDER**
+3. Make sure all files are in same folder location **Note: WIll NOT WORK IF FILES ARE NOT IN SAME FOLDER**
 4. Run entertainment_center.py (command: "python entertainment_center.py")
 
 ## Notes
